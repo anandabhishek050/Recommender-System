@@ -1,2 +1,2 @@
-# Recommender-System
-A recommender system based on 
+# Recsys
+recommender system project for recommending movies
